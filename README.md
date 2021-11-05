@@ -2,6 +2,7 @@
 This is a ecommerce back end portfolio piece.
 
 
+Had to add photos for the final product because insomnia stopped functioning with the screen recorder going.
 video demo:
 https://drive.google.com/file/d/1-QszIGVFI47gW0hJDkIiWct20R0GpZiJ/view?usp=sharing
 
